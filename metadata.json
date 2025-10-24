@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Bezier Curve Creator",
+  "description": "A modern web application that allows users to create, visualize, and interact with Bezier curves. Add, remove, and drag control points on a canvas to dynamically shape the curve and see the underlying mathematical representation in real-time.",
+  "requestFramePermissions": []
+}
